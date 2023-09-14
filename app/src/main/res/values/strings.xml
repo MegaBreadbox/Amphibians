@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Amphibians</string>
+    <string name="network_error">Network Error has occurred</string>
 </resources>
